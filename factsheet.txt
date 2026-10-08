@@ -1,0 +1,37 @@
+NO LUCK LEFT – FACTSHEET
+
+Developer: Jonas Funk
+Publisher: No Luck Left Studios
+Release date: Coming soon · free demo available
+Platforms: Windows, Linux (Steam) · Steam Deck
+Genre: Roguelite, slot machine, first-person
+Players: Single-player
+Languages: English, German, Spanish (Spain and Latin America), Portuguese (Brazil), Russian, Japanese, Simplified Chinese
+Input: Mouse and keyboard, full controller support
+
+Steam: https://store.steampowered.com/app/5099730/No_Luck_Left/
+Press contact: noluckleftsupport@gmail.com
+
+A first-person slot machine roguelite. Each wave has more health than the last – punch the button, hit lines and deal enough damage before your spins run out. Collect the coins off the floor and grow your machine from 3x3 to 5x5.
+
+No Luck Left is a first-person slot machine roguelite. You stand in a shady casino in front of a slot machine and punch the big red button. Every round is a wave with more health than the one before, and your winning lines deal the damage. Take the wave down before your spins run out, or the house sends its crew after you.
+Every win rattles coins out onto the floor. Pick them up, buy symbols and helpers, and grow your machine from 3x3 to a full 5x5 with 48 paylines.
+
+Features:
+- A slot machine roguelite where every spin counts
+- Grow your machine from 3x3 to 5x5 with up to 48 paylines
+- Coins land on the floor – collect them by hand, with a vacuum, robots or a drone
+- 12 symbols, 12 helpers and a boss every five waves
+- Permanent upgrades in the workshop between runs
+- Daily challenge with a Steam leaderboard
+- 7 languages, Steam Deck and controller support
+- No real money, nothing to buy in the game
+
+Credits:
+- Game design, code, art direction: Jonas Funk
+- Testing: Luke Scanlan
+- Music (CC0, OpenGameArt): “jazz (saxaphone)” by Pro Sensory, “Drunken Saloon” by iamoracle, “Electro Swing Type” by G_P, “Jazzy blues” by lushogames, “Catchy Swing” by doge
+- Sound (CC0): Kenney, OpenGameArt and Freesound contributors; “Unlock stinger” by Sunovia (Pixabay)
+- 3D models: Converted from the project's own concept art with Meshy (CC BY 4.0) and reworked for the game; record player by raulluqero (CGTrader); workshop textures by Poly Haven (CC0)
+- Fonts (SIL OFL): Limelight, Cabin, Bebas Neue, Noto Sans
+- Engine: Godot Engine
